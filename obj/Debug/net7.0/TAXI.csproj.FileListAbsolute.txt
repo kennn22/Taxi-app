@@ -1,0 +1,15 @@
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.csproj.AssemblyReference.cache
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.AssemblyInfoInputs.cache
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.AssemblyInfo.cs
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.csproj.CoreCompileInputs.cache
+F:\C#\TAXI\bin\Debug\net7.0\TAXI.exe
+F:\C#\TAXI\bin\Debug\net7.0\TAXI.deps.json
+F:\C#\TAXI\bin\Debug\net7.0\TAXI.runtimeconfig.json
+F:\C#\TAXI\bin\Debug\net7.0\TAXI.dll
+F:\C#\TAXI\bin\Debug\net7.0\TAXI.pdb
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.dll
+F:\C#\TAXI\obj\Debug\net7.0\refint\TAXI.dll
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.pdb
+F:\C#\TAXI\obj\Debug\net7.0\TAXI.genruntimeconfig.cache
+F:\C#\TAXI\obj\Debug\net7.0\ref\TAXI.dll
